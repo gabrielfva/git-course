@@ -1,1 +1,2 @@
-Estudiando git
+Estudiando git --> primer cambio
+--> segundo cambio
